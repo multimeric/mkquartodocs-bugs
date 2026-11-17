@@ -1,0 +1,7 @@
+---
+format: gfm
+---
+
+# My package
+
+Some **documentation**.

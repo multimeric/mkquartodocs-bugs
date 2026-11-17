@@ -1,1 +1,5 @@
-# Existing `.md` files are overwritten
+
+
+# My package
+
+Some **documentation**.
