@@ -1,0 +1,5 @@
+site_name: repro
+docs_dir: .
+plugins:
+  - same-dir
+  - mkquartodocs
