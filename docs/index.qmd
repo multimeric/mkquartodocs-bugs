@@ -1,0 +1,5 @@
+---
+title: Generated
+---
+
+Generated from qmd.
